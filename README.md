@@ -1,9 +1,3 @@
-i
-
-<p>
-    <div style="width:100%; height:350px;border:none;text-align:center">
-		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="https://github.com/lveMonsi"/>
-	</div>
-</p>
-        
-i
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+</div>
