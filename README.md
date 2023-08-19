@@ -26,14 +26,9 @@
 
 
 # Hi, I'm [忙巳!](https://www.lvems.top/) 👋.
+趁着年轻, 好好犯病
 从来不需要想起, 永远也不会忘记
-<div align=center>
-  <h3><b>访问人数</b></h3>
-</div>
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/lveMOnsi/count.svg" />  
-</p>
+奇迹, 只不过是努力的另一个名字罢了
 
 <!--公众号：『<a href="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" tarnk="_black">麋鹿鲁哟</a>』-->
 
