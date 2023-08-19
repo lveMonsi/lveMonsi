@@ -50,8 +50,7 @@
 [![Blog](https://img.shields.io/badge/blog-lveMonsi-blue)](https://blog.lvems.top/)
 <!--[![Blog](https://img.shields.io/badge/blog-vdoing-pink)](https://miluluyo.github.io/vdoingBlog/)
 [![Blog](https://img.shields.io/badge/blog-vuepress-lilac)](https://miluluyo.github.io/)
-[![公众号](https://img.shields.io/badge/公众号-麋鹿鲁哟-green)](https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg)
--->
+[![公众号](https://img.shields.io/badge/公众号-麋鹿鲁哟-green)](https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg)-->
 [![Mail](https://img.shields.io/badge/mail-lvemonsi@gmail.com-red)](mailto:lvemonsi@gmail.com)
 
 <!--[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-miluluyo-red)](https://gitee.com/miluluyo)-->
