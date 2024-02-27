@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://blog.lvems.top/rss/feed.xml"
+          feed_list: "https://www.tjsky.net/feed"
