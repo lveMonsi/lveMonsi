@@ -18,11 +18,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bing 每日壁纸接口](https://tangly1024.com/article/2312091)
-- [HTML + CSS详解](https://tangly1024.com/article/231209)
-- [Web 后端基础笔记](https://tangly1024.com/article/231124)
-- [MyBatis学习笔记](https://tangly1024.com/article/2308282)
-- [Maven学习笔记](https://tangly1024.com/article/2308281)
+- [Bing 每日壁纸接口](https://blog.lvems.top/article/2312091)
+- [HTML + CSS详解](https://blog.lvems.top/article/231209)
+- [Web 后端基础笔记](https://blog.lvems.top/article/231124)
+- [MyBatis学习笔记](https://blog.lvems.top/article/2308282)
+- [Maven学习笔记](https://blog.lvems.top/article/2308281)
 <!-- BLOG-POST-LIST:END -->
 
 
