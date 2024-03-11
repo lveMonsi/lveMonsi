@@ -18,11 +18,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://blog.lvems.top/article/240228)
-- [Bing 每日壁纸接口](https://blog.lvems.top/article/2312091)
-- [HTML + CSS详解](https://blog.lvems.top/article/231209)
+- [免服务器搭建免费个人域名邮箱](https://blog.lvems.top/article/240307)
+- [SpringBootWeb案例](https://blog.lvems.top/article/231128)
 - [Web 后端基础笔记](https://blog.lvems.top/article/231124)
-- [MyBatis学习笔记](https://blog.lvems.top/article/2308282)
+- [JDBC学习笔记](https://blog.lvems.top/article/230828)
+- [MySQL基础篇](https://blog.lvems.top/article/230317)
 <!-- BLOG-POST-LIST:END -->
 
 
