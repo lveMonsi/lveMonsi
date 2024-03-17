@@ -22,7 +22,7 @@
 - [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://blog.lvems.top/article/240228)
 - [Bing 每日壁纸接口](https://blog.lvems.top/article/2312091)
 - [HTML + CSS详解](https://blog.lvems.top/article/231209)
-- [SpringBootWeb案例](https://blog.lvems.top/article/231128)
+- [Web 前端基础笔记](https://blog.lvems.top/article/231123)
 <!-- BLOG-POST-LIST:END -->
 
 
