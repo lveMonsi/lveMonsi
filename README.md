@@ -18,11 +18,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [免服务器搭建免费个人域名邮箱](https://blog.lvems.top/article/240307)
-- [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://blog.lvems.top/article/240228)
-- [Bing 每日壁纸接口](https://blog.lvems.top/article/2312091)
-- [HTML + CSS详解](https://blog.lvems.top/article/231209)
-- [SpringBootWeb案例](https://blog.lvems.top/article/231128)
+- [免服务器搭建免费个人域名邮箱](https://tangly1024.com/article/240307)
+- [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://tangly1024.com/article/240228)
+- [Bing 每日壁纸接口](https://tangly1024.com/article/2312091)
+- [HTML + CSS详解](https://tangly1024.com/article/231209)
+- [SpringBootWeb案例](https://tangly1024.com/article/231128)
 <!-- BLOG-POST-LIST:END -->
 
 
