@@ -1,6 +1,6 @@
 ### Hi I`m lveMonsi 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=lveMonsi&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://streak-stats.demolab.com?user=lveMonsi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" align="right"  />
 
 一只互联网爱好者，略懂略懂 *internet enthusiast*
 
