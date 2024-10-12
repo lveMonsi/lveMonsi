@@ -31,11 +31,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [摇曳露营: 宜小杯慢酌的治愈之作](https://blog.lvems.top/article/241012)
 - [Python简单入门](https://blog.lvems.top/article/241010)
 - [Docker学习笔记](https://blog.lvems.top/article/240910)
 - [Durid连接池配置笔记](https://blog.lvems.top/article/240906)
 - [白嫖 Vercel CDN 实现将 Alist 作为图床使用](https://blog.lvems.top/article/240424)
-- [免服务器搭建免费个人域名邮箱](https://blog.lvems.top/article/240307)
 <!-- BLOG-POST-LIST:END -->
 
 
