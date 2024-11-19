@@ -9,6 +9,7 @@
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
 [![Golang](https://img.shields.io/badge/Golang-00A7D0?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-224A6B?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
 [![Powershell](https://img.shields.io/badge/Powershell-4D88ED?style=flat-square&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
 [![MySQL](https://img.shields.io/badge/-MySQL-547B9D?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
