@@ -32,10 +32,10 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript 学习笔记](https://blog.lvems.top/article/241130)
 - [蓦然回首: 原作党的狂欢](https://blog.lvems.top/article/241026)
 - [摇曳露营: 宜小杯慢酌的治愈之作](https://blog.lvems.top/article/241012)
 - [Python简单入门](https://blog.lvems.top/article/241010)
-- [Docker学习笔记](https://blog.lvems.top/article/240910)
 - [Git学习笔记](https://blog.lvems.top/article/230831)
 <!-- BLOG-POST-LIST:END -->
 
