@@ -32,11 +32,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite项目打包调优](https://blog.lvems.top/article/251120)
 - [Ansible学习笔记](https://blog.lvems.top/article/250811)
 - [“破解”网易云音乐收费/版权问题歌曲](https://blog.lvems.top/article/250318)
 - [免服务器搭建免费个人域名邮箱](https://blog.lvems.top/article/240307)
 - [Bing 每日壁纸接口](https://blog.lvems.top/article/2312091)
-- [用旧手机搭建Linux服务器](https://blog.lvems.top/article/230523)
 <!-- BLOG-POST-LIST:END -->
 
 
