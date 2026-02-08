@@ -32,11 +32,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Note Collections](https://blog.lvems.top/article/260124)
-- [Vite项目打包调优](https://blog.lvems.top/article/251120)
-- [Ansible学习笔记](https://blog.lvems.top/article/250811)
-- [“破解”网易云音乐收费/版权问题歌曲](https://blog.lvems.top/article/250318)
-- [免服务器搭建免费个人域名邮箱](https://blog.lvems.top/article/240307)
+- [DevOps Note Collections](https://tangly1024.com/article/260124)
+- [Vite项目打包调优](https://tangly1024.com/article/251120)
+- [Ansible学习笔记](https://tangly1024.com/article/250811)
+- [“破解”网易云音乐收费/版权问题歌曲](https://tangly1024.com/article/250318)
+- [免服务器搭建免费个人域名邮箱](https://tangly1024.com/article/240307)
 <!-- BLOG-POST-LIST:END -->
 
 
